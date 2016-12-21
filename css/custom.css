@@ -1,0 +1,5 @@
+/*make the menu sub-menu items drop down on mouse hover */
+ul.nav li.dropdown:hover > ul.dropdown-menu{
+    display: block;
+    margin: 0;
+}
